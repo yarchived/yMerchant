@@ -1,0 +1,8 @@
+## Interface: 40000
+
+## Title: |cffff8800y|rMerchant
+## Notes: quick n' dirty merchant addon
+## Author: yleaf
+## Version: alpha
+
+core.lua
